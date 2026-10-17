@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kübra Polat</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
-
-<h1 align="center">Hi 👋, I'm Kübra Polat</h1>
 <h3 align="center">Cyber Security Enthusiast & Developer from Türkiye</h3>
 
 <br>
